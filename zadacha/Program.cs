@@ -51,4 +51,4 @@ Console.WriteLine();
 
 string[] sNew = ChangeArray(s);
 
-
+Console.WriteLine($"{PrintArray(s)} => {PrintArray(sNew)}");
